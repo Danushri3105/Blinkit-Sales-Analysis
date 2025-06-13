@@ -34,6 +34,7 @@ Monthly trend of outlet establishment
 Interactive filters and clean layout for better analysis
 
 📦 Dataset
+
 The dataset used for this analysis includes:
 
 Sales figures
