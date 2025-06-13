@@ -1,6 +1,7 @@
 # Blinkit-Sales-Analysis
 
-🔍 Blinkit Sales Analysis – Excel Dashboard Project
+🔍 Blinkit Sales Analysis 
+
 📁 Project Overview
 This project focuses on analyzing the sales performance data of Blinkit, one of India’s fastest-growing instant delivery platforms. The main objective was to transform raw sales data into a fully interactive and insightful Excel dashboard, enabling users to explore patterns and trends in a business-friendly format.
 
@@ -18,9 +19,11 @@ Identify product-wise sales contribution
 Track outlet establishment trends over time
 
 📌 Tools Used
+
 Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
 📊 Dashboard Features
+
 Total and average sales overview
 
 Sales breakdown by outlet size, type, and tier location
@@ -34,6 +37,7 @@ Monthly trend of outlet establishment
 Interactive filters and clean layout for better analysis
 
 📦 Dataset
+
 The dataset used for this analysis includes:
 
 Sales figures
@@ -47,9 +51,11 @@ Customer ratings
 Note: Dataset is anonymized and used for academic/educational purposes.
 
 📈 Output
+
 An interactive Excel dashboard that provides an at-a-glance summary of Blinkit’s business insights, allowing stakeholders to make informed decisions based on historical data.
 
 📚 Learnings
+
 Dashboard planning and layout design
 
 Data cleaning and pivot table management
